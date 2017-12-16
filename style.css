@@ -1,0 +1,18 @@
+#hoop1{
+    position:absolute;
+    left:0;
+    top:100px;
+  
+}
+#hoop2{
+    position:absolute;
+    right:0;
+    top:100px;
+  
+        
+    
+}
+#hoop1 img,
+#hoop2 img {
+    width:90px;
+}

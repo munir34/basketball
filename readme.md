@@ -1,0 +1,1 @@
+Players take turns to try and score as many points as possible inside a hoop.
